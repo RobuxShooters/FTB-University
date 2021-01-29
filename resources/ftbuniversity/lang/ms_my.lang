@@ -2,57 +2,57 @@
 
 #Quest stuff
 ##Getting Started
-ftbuniversity.gettingstarted.title=Getting Started, Again!
+ftbuniversity.gettingstarted.title=Bermula Sekali Lagi!
 
-ftbuniversity.leavespawn.title=Welcome to &dFTB University&7!
-ftbuniversity.leavespawn.subtitle=Walk a suitable distance from spawn
-ftbuniversity.leavespawn.desc1=&dFTB University&r is a modpack dedicated to teaching semi-experienced players the more complex mods and mechanics of modern modded Minecraft.
-ftbuniversity.leavespawn.desc2=University assumes you already have some basic knowledge. If you haven't, we recommend playing &dFTB Academy&r first.
-ftbuniversity.leavespawn.desc3=To start out with, just walk some distance from spawn. I won't ask you to punch down 16 trees or anything, just &bwalk (or run) about 100 blocks from wherever you spawned&r.
-ftbuniversity.leavespawn.desc4=You can pin this quest to see how far you've gone.
-ftbuniversity.leavespawn.task1=Walk 100 blocks
-ftbuniversity.leavespawn.task2=Sprint 100 blocks
+ftbuniversity.leavespawn.title=Selamat datang ke &dFTB University&7!
+ftbuniversity.leavespawn.subtitle=Berjalan beberapa blok dari titik penjelmaan
+ftbuniversity.leavespawn.desc1=&dFTB University&r ialah satu pek modifikasi yang dicipta untuk mengajar pemain-pemain yang separuh berpengalaman dengan modifikasi tentang modifikasi dan selok-belok kompleks dalam Minecraft yang dimodifikasi yang moden.
+ftbuniversity.leavespawn.desc2=Pek modifikasi ini menganggap anda telah mempunyai sedikit pengetahuan yang asas. Jika tidak, kami mencadangkan anda bermain &dFTB Academy&r terlebih dahulu.
+ftbuniversity.leavespawn.desc3=Untuk bermula, berjalan beberapa blok dari titik penjelmaan anda. Saya tidak akan menyuruh anda menumbuk 16 batang pokok atau apa-apa pun, hanya &bberjalan (atau berlari) kira-kira 100 blok dari mana-mana anda terjelma.
+ftbuniversity.leavespawn.desc4=Anda boleh melekat panduan ini untuk mendapat tahu jarak yang telah anda berjalan.
+ftbuniversity.leavespawn.task1=Berjalan untuk 100 blok
+ftbuniversity.leavespawn.task2=Memecut untuk 100 blok
 
-ftbuniversity.worldtp.title=Choose a World Generator!
-ftbuniversity.worldtp.subtitle=Decide what planet you want to live on
-ftbuniversity.worldtp.desc1=FTB University uses the mod &eAdvanced Rocketry&r to add other planets. Several of which are &eOpen Terrain Generator presets&r, which are essentially &6different world generators&r.
-ftbuniversity.worldtp.desc2=We've decided, why choose one when you can have them all? This quest will allow you to &6teleport between these different planets&r. The first one is &6free&r, but each additional teleport will cost &65 levels of experience&r!
-ftbuniversity.worldtp.desc3=&6The quest directly above this&r has a list of presets, and what makes them special.
-ftbuniversity.worldtp.desc4=&cA warning&r: OTG presets are fairly resource-intensive to generate, so you may want to &6pregenerate&r them using the OTG menu (see controls).
-ftbuniversity.worldtp.desc5=&cA second warning&r: Teleporting into ungenerated chunks causes a surprising amount of lag, so be wary of that.
-ftbuniversity.worldtp.desc6=&cA third warning&r: You &ccannot make Nether portals on other planets&r. Unfortunately, this is a technical limitation, so you'll have to make at least a small base on Earth that has a portal. Certain &cstructures and biomes from other mods will also not generate&r.
-ftbuniversity.worldtp.reward=60 seconds of immortality, in case you teleport into a block
+ftbuniversity.worldtp.title=Memilih Penjana Dunia!
+ftbuniversity.worldtp.subtitle=Pilih jenis planet yang hendak anda hidup dalam
+ftbuniversity.worldtp.desc1=FTB University menggunakan modifikasi &eAdvanced Rocketry&r untuk menambah planet-planet lain. Antarnya merupakan &epraset Open Terrain Generator&r, iaitu secara asasnya &6penjana dunia yang berlainan&r.
+ftbuniversity.worldtp.desc2=Kami telah berfikir, mengapakah memilih satu sahaja jika anda boleh memilih semuanya? Panduan ini akan membolehkan anda &6berteleportasi antara planet-planet yang berlainan ini&r. Teleportasi pertama adalah &6percuma&r, tetapi setiap teleportasi yang selanjutnya akan berharga &65 tahap pengalaman!
+ftbuniversity.worldtp.desc3=&6Panduan tepat di atas ini&r mempunyai senarai praset-praset, dan apakah yang membezakan mereka antara yang lain.
+ftbuniversity.worldtp.desc4=&cSatu amaran&r: Praset-praset OTG memerlukan sumber yang banyak untuk dijana, oleh itu anda mungkin hendak &6prajanakannya&r dengan menggunakan menu OTG (lihat kawalan).
+ftbuniversity.worldtp.desc5=&cAmaran kedua&r: Berteleportasi ke dalam cebisan yang belum dijana akan menyebabkan lag yang banyak, harap maklum.
+ftbuniversity.worldtp.desc6=&cAmaran ketiga&r: Anda &ctidak boleh membina gerbang Nether di planet yang lain&r. Malangnya, ini merupakan pembatasan teknikal, oleh itu anda perlu sekurang-kurangnya membina satu tapak yang kecil di Bumi yang mempunyai gerbang. Beberapa jenis &cstruktur dan biom dari modifikasi lain juga tidak akan terjana&r.
+ftbuniversity.worldtp.reward=Keabadian untuk 60 saat, jika anda terteleportasi ke dalam blok
 
-ftbuniversity.worldtp.rewards=Planets
-ftbuniversity.worldtp.reward1=Earth
-ftbuniversity.worldtp.reward2=Biome Bundle
-ftbuniversity.worldtp.reward3=Biome Bundle o' Plenty
-ftbuniversity.worldtp.reward4=Vanilla Vistas
-ftbuniversity.worldtp.reward5=Vanilla Vistas Amplified
+ftbuniversity.worldtp.rewards=Planet-planet
+ftbuniversity.worldtp.reward1=Bumi
+ftbuniversity.worldtp.reward2=Ikatan Biom
+ftbuniversity.worldtp.reward3=Ikatan Biom Diperbanyak
+ftbuniversity.worldtp.reward4=Pemandangan Asal
+ftbuniversity.worldtp.reward5=Pemandangan Asal Dikuatkan
 
-ftbuniversity.worldtpinfo.title=Oh the Places You'll Go!
-ftbuniversity.worldtpinfo.subtitle=Learn about the different presets
-ftbuniversity.worldtpinfo.desc1=The available presets are:
-ftbuniversity.worldtpinfo.desc2=• &eBiome Bundle&r, which adds &6over 200 new biomes&r, and &6over 2000 new structures&r. This one is my personal favorite.
-ftbuniversity.worldtpinfo.desc3=• &eBiome Bundle o' Plenty&r is the same, but &6incorporates biomes from the mod Biomes o' Plenty&r, which are enabled by default in the normal overworld.
-ftbuniversity.worldtpinfo.desc4=• &eVanilla Vistas&r, which "&6overhauls terrain generation and biome placement using only vanilla biomes&r." Essentially, it makes regular biomes look better, as well as having a high amount of verticality.
-ftbuniversity.worldtpinfo.desc5=• &eVanilla Vistas Amplified&r is the same, but even &6taller&r.
+ftbuniversity.worldtpinfo.title=Oh, Tempat yang akan Anda Kunjungi!
+ftbuniversity.worldtpinfo.subtitle=Belajar tentang praset-praset yang berlainan
+ftbuniversity.worldtpinfo.desc1=Praset-praset yang terdapat termasuk:
+ftbuniversity.worldtpinfo.desc2=• &eIkatan Biom&r, yang menambah &6lebih daripada 200 biom yang baharu&r, dan &6lebih daripada 2000 struktur yang baharu&r. Praset ini merupakan kegemaran peribadi saya.
+ftbuniversity.worldtpinfo.desc3=• &eIkatan Biom Diperbanyak&r sama seperti di atas, tetapi praset ini &6mengandungi biom-biom dari modifikasi Biomes o' Plenty&r, yang diaktifkan secara lalai dalam Overworld.
+ftbuniversity.worldtpinfo.desc4=• &ePemandangan Asal&r, yang "&6menambah baik penjanaan rupa bumi dan peletakkan biom dengan menggunakan hanya biom-biom asal&r." Pendek kata, praset ini menyebabkan biom-biom asal kelihatan lebih baik, selain mempunyai ketegakan yang tinggi.
+ftbuniversity.worldtpinfo.desc5=• &ePemandangan Asal Dikuatkan&r sama dengan praset di atas, tetapi lebih &6tinggi&r.
 
-ftbuniversity.worldtp2.title=Multipass
-ftbuniversity.worldtp2.subtitle=Buy another teleport pass
-ftbuniversity.worldtp2.desc=Spend &b5 levels of experience&r to &6teleport again&r.
+ftbuniversity.worldtp2.title=Multipas
+ftbuniversity.worldtp2.subtitle=Beli satu lagi pas teleportasi
+ftbuniversity.worldtp2.desc=Gunakan &b5 tahap pengalaman&r untuk &6berteleportasi sekali lagi&r.
 
-ftbuniversity.prefab1.title=What's an Early-Game?
-ftbuniversity.prefab1.subtitle=Enjoy your new furnishings
-ftbuniversity.prefab1.desc1=Since this pack is mostly about complex mods, why bother with the early-game grind?
-ftbuniversity.prefab1.desc2=Simply use this item on the ground anywhere and &6it will build you up a nice house&r to start out of.
-ftbuniversity.prefab1.desc3=There are six house styles you can choose from! Some of them allow you to change the blocks, size, etc.
+ftbuniversity.prefab1.title=Apakah itu Permulaan Permainan?
+ftbuniversity.prefab1.subtitle=Menikmati hiasan baharu anda
+ftbuniversity.prefab1.desc1=Disebabkan pek modifikasi ini berfokus terhadap modifikasi kompleks, kenapalah perlunya bimbang dengan permulaan permainan yang membosankan?
+ftbuniversity.prefab1.desc2=Anda hanya perlu menggunakan item ini di mana-mana atas tanah dan &6item ini akan membina sebuah rumah untuk anda&r untuk bermula.
+ftbuniversity.prefab1.desc3=Terdapat 6 stail rumah yang boleh anda pilih dari! Sebilangan daripada mereka membolehkan anda menukar blok, saiz rumah, dan lain-lain.
 
-ftbuniversity.prefab2.title=Bonus Buildings
-ftbuniversity.prefab2.subtitle=Make your own Prefab
-ftbuniversity.prefab2.desc1=Prefab also comes with a bunch more buildings to plop down. These can be used to skip a bit more of the early game, if you really need to.
-ftbuniversity.prefab2.desc2=You can also search in JEI "&e@Prefab&r" to search for everything the mod adds.
-ftbuniversity.prefab2.task=Example Prefabs
+ftbuniversity.prefab2.title=Bangunan Tambahan
+ftbuniversity.prefab2.subtitle=Mencipta Prefab diri anda
+ftbuniversity.prefab2.desc1=Prefab juga mengandungi beberapa bangunan yang lain yang boleh dibina. Bangunan-bangunan ini boleh digunakan untuk melangkaui sedikit lagi permulaan permainan, jika anda perlu.
+ftbuniversity.prefab2.desc2=Anda juga boleh mencari dalam JEI "&e@Prefab&r" untuk mencari segala barang yang ditambah oleh modifikasi ini.
+ftbuniversity.prefab2.task=Prefab-Prefab Contoh
 
 ftbuniversity.punchwood.title=I Lied to You, and I'm Sorry for That
 ftbuniversity.punchwood.subtitle=Punch some trees
